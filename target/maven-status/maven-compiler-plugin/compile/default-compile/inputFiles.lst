@@ -1,0 +1,11 @@
+E:\_05_spring_union\src\main\java\by\itclass\configs\JpaConfig.java
+E:\_05_spring_union\src\main\java\by\itclass\model\repositories\BookRepository.java
+E:\_05_spring_union\src\main\java\by\itclass\configs\AppConfig.java
+E:\_05_spring_union\src\main\java\by\itclass\controllers\BookController.java
+E:\_05_spring_union\src\main\java\by\itclass\model\repositories\LibraryRepository.java
+E:\_05_spring_union\src\main\java\by\itclass\model\entities\BookIntLibrary.java
+E:\_05_spring_union\src\main\java\by\itclass\configs\Init.java
+E:\_05_spring_union\src\main\java\by\itclass\controllers\LibraryController.java
+E:\_05_spring_union\src\main\java\by\itclass\configs\WebMvcConfig.java
+E:\_05_spring_union\src\main\java\by\itclass\model\entities\Book.java
+E:\_05_spring_union\src\main\java\by\itclass\model\entities\Library.java

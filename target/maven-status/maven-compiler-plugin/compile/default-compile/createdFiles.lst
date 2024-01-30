@@ -1,0 +1,11 @@
+by\itclass\configs\WebMvcConfig.class
+by\itclass\model\entities\BookIntLibrary.class
+by\itclass\model\repositories\BookRepository.class
+by\itclass\configs\AppConfig.class
+by\itclass\model\repositories\LibraryRepository.class
+by\itclass\configs\JpaConfig.class
+by\itclass\model\entities\Book.class
+by\itclass\model\entities\Library.class
+by\itclass\configs\Init.class
+by\itclass\controllers\BookController.class
+by\itclass\controllers\LibraryController.class
